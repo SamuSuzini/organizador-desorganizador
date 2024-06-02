@@ -2,6 +2,7 @@ Organizador e Desorganizador de Arquivos
 Bem-vindo ao projeto Organizador e Desorganizador de Arquivos! Este é um script desenvolvido em Python que organiza automaticamente seus arquivos na pasta Downloads e remove diretórios vazios.
 
 📸 Demonstração - Assista à Demonstração:
+
 https://github.com/SamuSuzini/organizador-desorganizador/assets/168037378/8518caa8-425b-4f48-85c8-0c53b48ae5b0
 
 
